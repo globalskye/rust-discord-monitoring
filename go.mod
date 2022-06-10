@@ -1,4 +1,4 @@
-module github.com/globalskye/golang-united-school-homework-5.2.git
+module github.com/globalskye/rust-discord-monitoring.git
 
 go 1.18
 
